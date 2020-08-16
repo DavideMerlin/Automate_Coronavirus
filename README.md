@@ -1,4 +1,4 @@
-# Automated coronavirus tracking
+# Automated coronavirus tracking and reporting
 
 ![pic1](images/thumbnail.png)
 
